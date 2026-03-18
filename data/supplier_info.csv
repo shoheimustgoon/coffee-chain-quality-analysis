@@ -1,0 +1,16 @@
+Origin,SupplierGrade,AvgMoisture_pct,Defects_per300g,PriceUSD_per_kg,CertOrganic,CertFairTrade
+Ethiopia,A,9.2,5,13.28,True,True
+Ethiopia,B,9.9,17,11.32,True,True
+Ethiopia,C,11.9,2,14.13,True,True
+Colombia,A,9.7,0,8.21,False,False
+Colombia,B,11.7,16,8.95,False,True
+Colombia,C,10.4,6,3.6,True,False
+Brazil,A,9.4,9,6.07,False,True
+Brazil,B,11.8,16,5.19,True,False
+Brazil,C,10.5,5,5.87,True,False
+Guatemala,A,11.7,5,6.76,True,True
+Guatemala,B,12.3,14,9.02,False,True
+Guatemala,C,9.9,7,14.24,False,True
+Kenya,A,10.6,2,13.21,True,False
+Kenya,B,9.5,6,10.67,False,True
+Kenya,C,10.8,9,8.42,True,False

@@ -1,0 +1,4 @@
+-e numpy
+pandas
+scipy
+openpyxl
